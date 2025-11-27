@@ -53,8 +53,7 @@ I build systems that **look simple for users** but **hide powerful automation un
 
 ## 🧩 High-Level Architecture (Developer Edition)
 
-scss
-Copy code
+
                ┌──────────────────────────┐
                │      Frontend (Next.js)   │
                └──────────────┬───────────┘
@@ -70,8 +69,7 @@ Cloud Infrastructure (AWS EC2, S3)
 │
 Auth • Billing • Analytics • CDN
 
-yaml
-Copy code
+
 
 ---
 
