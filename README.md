@@ -3,7 +3,8 @@
 <h1 align="center">🚀 Mohamed Khalid — Senior AI & SaaS Engineer</h1>
 
 <p align="center">
-  I build production-grade SaaS platforms powered by AI pipelines, workflow automation, and scalable cloud architecture.
+  I build production-grade SaaS platforms powered by AI pipelines,<br/>
+  workflow automation, distributed systems, and scalable cloud architecture.
 </p>
 
 <p align="center">
@@ -12,29 +13,26 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws" />
   <img src="https://img.shields.io/badge/n8n-Automation-EA4C89?style=flat" />
-  <img src="https://img.shields.io/badge/SaaS-Engineering-blueviolet" />
+  <img src="https://img.shields.io/badge/SaaS-Engineering-7f00ff" />
 </p>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
-
 ## 🔥 About Me
 
-I'm a **Senior AI Automation & SaaS Engineer** specialized in:
+I'm a **Senior AI Automation & SaaS Engineer** who specializes in:
 
-- Multi-stage AI pipelines (script → TTS → avatar → render → delivery)  
-- Full SaaS platforms (auth, billing, analytics, cloud rendering)  
-- Workflow automation (n8n, Make, bots, integrations, backend logic)  
-- Scalable cloud infrastructure (AWS EC2, S3, Nginx, Docker, CI/CD)  
-- Intelligent agents & backend logic engines  
-- Clean architecture & production-ready engineering  
+- Multi-stage AI pipelines (**script → TTS → avatar → render → delivery**)
+- Full SaaS platforms (auth, billing, analytics, cloud rendering)
+- Workflow automation (n8n, Make, bots, backend logic)
+- Cloud architecture (AWS EC2, S3, Nginx, Docker, CI/CD)
+- Intelligent backend engines & automation microservices
+- Scalable, production-ready engineering
 
-I build systems that **look simple for users** but **hide powerful automation under the hood**.
+I build systems that look simple on the outside  
+but run powerful automation and AI logic behind the scenes.
 
 ---
-
-<!-- ======================= SKILLS GRID ======================= -->
 
 ## 🛠 Tech Stack (Developer Pro Grid)
 
@@ -42,17 +40,15 @@ I build systems that **look simple for users** but **hide powerful automation un
 |---------|--------------|
 | **Frontend** | Next.js, React, TailwindCSS |
 | **Backend** | Node.js, TypeScript, Express, Python |
-| **AI / Video / Automation** | Veo, Kling, Heygen, Coqui TTS, ElevenLabs, n8n, Make, Telegram Bots |
-| **Cloud / DevOps** | AWS (EC2, S3), Nginx, Docker, GitHub Actions, PM2 |
-| **Databases** | PostgreSQL, Prisma, Redis |
-| **IT / Infra** | PowerShell, Active Directory, Identity Automation |
+| **AI / Video** | Veo, Kling, Heygen, Coqui, ElevenLabs |
+| **Automation** | n8n, Make, Telegram Bots, Webhooks |
+| **DevOps / Cloud** | AWS EC2, S3, Nginx, PM2, Docker, GitHub Actions |
+| **Database** | PostgreSQL, Prisma, Redis |
+| **IT / Infra** | PowerShell, Active Directory |
 
 ---
 
-<!-- ======================= ARCHITECTURE DIAGRAM ======================= -->
-
-## 🧩 High-Level Architecture (Developer Edition)
-
+## 🧩 High-Level System Architecture
 
                ┌──────────────────────────┐
                │      Frontend (Next.js)   │
@@ -60,54 +56,60 @@ I build systems that **look simple for users** but **hide powerful automation un
                               │
                      API Gateway (Node.js)
                               │
+
 ──────────────────────────────────┼──────────────────────────────────
-AI Pipeline Automation Engine
-(Script → TTS → Avatar → Render) (n8n + Custom Services)
+AI Pipeline (Script → TTS → Avatar → Render)
+──────────────────────────────────┼──────────────────────────────────
+Automation Engine (n8n + Services)
 ──────────────────────────────────┼──────────────────────────────────
 │
 Cloud Infrastructure (AWS EC2, S3)
 │
-Auth • Billing • Analytics • CDN
-
-
+Authentication • Billing • Analytics • Media Delivery
 
 ---
-
-<!-- ======================= PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
 
-### 🎬 **SmartAIVideo — AI Video Generation SaaS**
-Production-grade video pipeline:  
-**script → voice → avatar → render → publish → analytics**  
-Includes authentication, billing, dashboard, cloud storage, and distributed workers.
+### 🎬 SmartAIVideo — AI Video Generation SaaS
+- Full video pipeline: script → voice → avatar → render → publish  
+- Distributed rendering workers + S3 cloud storage  
+- Billing, authentication, analytics dashboard  
 
 ---
 
-### 🤖 **NextAgents — Automation & AI Agents Platform**
-Workflow automation engine integrating:  
-bots • CRMs • APIs • cloud tasks • logic flows • background jobs.
+### 🤖 NextAgents — Automation & AI Agents Platform
+- Workflow engine integrating CRMs, bots, APIs, and cloud tasks  
+- Backend logic engine for decision flows and automations  
 
 ---
 
-### ⚙️ **BEASTAI — Core Automation Engine**
-Reusable backend logic layer powering:  
-task processing • job queues • AI handlers • workflow decisions.
+### ⚙️ BEASTAI — Automation Core
+- Reusable backend automation layer  
+- Job queues, task processing, AI handlers  
+- Ideal for powering multi-step automation workflows  
 
 ---
 
-<!-- ======================= PHILOSOPHY ======================= -->
+## 📈 Developer Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MHDKHALID&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHDKHALID&layout=compact&theme=radical" height="150" />
+</p>
+
+---
 
 ## 💡 Engineering Philosophy
 
 > **High automation, low friction.**  
-> Users should feel simplicity — while the backend handles all complexity.
+> The UI should feel simple — the backend handles the complexity.
 
 ---
 
-<!-- ======================= CONTACT ======================= -->
-
 ## 📫 Contact
 
-- GitHub: **github.com/MHDKHALID**
-- Email: *available upon request*
+**GitHub:** github.com/MHDKHALID  
+**Email:** available upon request  
+
+---
