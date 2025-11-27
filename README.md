@@ -48,14 +48,23 @@ but run powerful automation and AI logic behind the scenes.
 
 ---
 🧩 System Architecture (Simplified)
-Frontend (Next.js)
+
+Frontend (Next.js) 
+
      ↓ 
-API Layer (Node.js)
+     
+API Layer (Node.js) 
+
      ↓
+     
 AI Pipeline (Script → TTS → Avatar → Render)
+
      ↓
+     
 Automation Engine (n8n + Custom Services)
+
      ↓
+     
 AWS (EC2, S3, Delivery + Auth + Billing + Analytics)
 
 ---
