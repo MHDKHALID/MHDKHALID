@@ -54,15 +54,25 @@ but run **powerful automation and AI logic** behind the scenes.
 
 
 User
+
 ↓
+
 Frontend (Next.js)
+
 ↓
+
 API Gateway (Node.js + TypeScript)
+
 ↓
-AI Pipeline (Script → Voice → Avatar → Render)
+
+AI Pipeline (Script → Voice → Avatar → Render)\
+
 ↓
+
 Automation Engine (n8n + Custom Services)
+
 ↓
+
 Cloud Delivery (AWS EC2, S3, CDN)
 
 
