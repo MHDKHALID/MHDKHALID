@@ -84,7 +84,7 @@ Includes authentication, billing, dashboard, cloud storage, and distributed work
 
 ---
 
-### 🤖 **NextAgent — Automation & AI Agents Platform**
+### 🤖 **NextAgents — Automation & AI Agents Platform**
 Workflow automation engine integrating:  
 bots • CRMs • APIs • cloud tasks • logic flows • background jobs.
 
