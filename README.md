@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136021-83f3dbe46eec?q=80&w=1920&auto=format&fit=crop" width="100%" />
+  <img src="https://i.imgur.com/Qet7z9e.jpg" width="100%" />
 </p>
 
 <!-- ======================= HEADER ======================= -->
