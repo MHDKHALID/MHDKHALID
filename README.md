@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Mohamed Khalid 👋
 
-<!--
-**MHDKHALID/MHDKHALID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Engineer & IT Specialist
+I build production-grade AI systems, automation pipelines, SaaS platforms, and intelligent backend services.
 
-Here are some ideas to get you started:
+🔥 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Video Generation Pipelines (Veo, Kling, Heygen, TTS)
+
+Automation Workflows (n8n, Make, Telegram Bots, CRM Integrations)
+
+Full-Stack SaaS Development (Next.js, Node.js, PostgreSQL, AWS)
+
+Scalable Backend APIs & Cloud Deployments (EC2, S3, Serverless)
+
+IT & Active Directory Automation (PowerShell, Identity Management)
+
+AI Agents, Script Generators, and Workflow Orchestration
+
+🚀 Current Projects
+
+SmartAIVideo – AI video generation SaaS
+
+NextAgent – Automation & AI Agents platform
+
+BEASTAI – Intelligent backend system for automated processing & decision workflows
