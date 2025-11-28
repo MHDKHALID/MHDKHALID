@@ -88,7 +88,7 @@ Cloud Delivery (AWS EC2, S3, CDN)
 
 ---
 
-### 🤖 NextAgent — Automation & AI Agents Platform  
+### 🤖 NextAgents — Automation & AI Agents Platform  
 - Workflow automation engine  
 - Bots • CRMs • APIs • Integrations  
 - Backend decision logic + job processing  
