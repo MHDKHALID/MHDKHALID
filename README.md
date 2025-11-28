@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="https://i.imgur.com/Qet7z9e.jpg" width="100%" />
+  <img src="https://github.com/MHDKHALID/MHDKHALID/blob/main/7e1ea66a619ce1b54ca17e60ac0ca4d8_1764288577.png?raw=true" width="100%" />
 </p>
 
 <!-- ======================= HEADER ======================= -->
